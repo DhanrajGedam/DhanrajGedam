@@ -9,7 +9,7 @@ Languages: 🟤 Java | 🐘 SQL
 
 Frameworks: 🌱 Spring Boot | 🔐 Spring Security | 🧩 Hibernate | 🔗 JDBC
 
-Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git | 🔧 Jenkins
+Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git and Github| 🔧 Jenkins
 
 Database: 🗄️ MySQL
 
