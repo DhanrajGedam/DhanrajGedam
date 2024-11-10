@@ -1,5 +1,6 @@
-👋 Hey there! I’m Dhanraj Gedam!
-💻 Backend Developer | Java Enthusiast | Spring Boot Aficionado | MySQL
+👋 Hey there! I’m Dhanraj Gedam! 👨‍💻
+
+ Backend Developer 💻 | Java Enthusiast | Spring Boot Aficionado | MySQL
 
 I’m a passionate Backend Developer with a knack for creating efficient, reliable, and optimized code. My GitHub is filled with projects showcasing real-world applications, built with precision and a love for coding! 💼
 
@@ -9,7 +10,7 @@ Languages: 🟤 Java | 🐘 SQL
 
 Frameworks: 🌱 Spring Boot | 🔐 Spring Security | 🧩 Hibernate | 🔗 JDBC
 
-Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git and Github| 🔧 Jenkins
+Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git and Github | 🔧 Jenkins
 
 Database: 🗄️ MySQL
 
@@ -20,8 +21,7 @@ Database: 🗄️ MySQL
 📚 Library Management System – Full CRUD operations with a user-friendly interface.
 
 🔐 Registration and Login System – Secure authentication system using Spring Boot, Spring Security, and MySQL.
-
-...and many more!
+and many more...!🐦‍🔥
 
 💡 Why Choose Me?
 
