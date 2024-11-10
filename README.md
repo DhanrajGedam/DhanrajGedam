@@ -21,6 +21,7 @@ Database: 🗄️ MySQL
 📚 Library Management System – Full CRUD operations with a user-friendly interface.
 
 🔐 Registration and Login System – Secure authentication system using Spring Boot, Spring Security, and MySQL.
+
 and many more...!🐦‍🔥
 
 💡 Why Choose Me?
