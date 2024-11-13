@@ -6,6 +6,22 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
 
 🚀 Tech Stack & Skills:
 
+### Tech Stack and Skills
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL Workbench" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="JDBC" width="40" height="40"/>
+</p>
+
+
 Languages: 🟤 Java | 🐘 SQL
 
 Frameworks: 🌱 Spring Boot | 🔐 Spring Security | 🧩 Hibernate | 🔗 JDBC
