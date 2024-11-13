@@ -35,7 +35,7 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
 
 Languages: 🟤 Java | 🐘 SQL
 
-Frameworks: 🌱 Spring Boot | 🔐 Spring Security | 🧩 Hibernate | 🔗 JDBC
+Frameworks: 🌱 Spring Boot |🧩 Hibernate |
 
 Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git and Github | 🔧 Jenkins
 
