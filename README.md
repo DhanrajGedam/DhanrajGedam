@@ -4,7 +4,7 @@
 
 I’m a passionate Backend Developer with a knack for creating efficient, reliable, and optimized code. My GitHub is filled with projects showcasing real-world applications, built with precision and a love for coding! 💼
 
-###🚀 Skills and Tools 🛠️
+### Skills and Tools  🛠️
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
