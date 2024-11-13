@@ -38,6 +38,8 @@ Database: 🗄️ MySQL
 
 📂 Highlighted Projects:
 
+🎓 Student Management System – Built with Spring Boot, Thymeleaf, and MySQL, offering seamless management of student records.
+
 🗓️ Online Reservation System – An intuitive booking platform using Spring Boot and MySQL.
 
 📚 Library Management System – Full CRUD operations with a user-friendly interface.
