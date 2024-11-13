@@ -21,7 +21,7 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij/jetbrains_intellij-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
 <hr style="border: 2px solid #000;"/>
