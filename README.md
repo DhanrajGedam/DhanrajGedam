@@ -8,6 +8,8 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
 
 ### Tech Stack and Skills
 
+### Tech Stack and Skills
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL Workbench" width="40" height="40"/>
@@ -19,7 +21,13 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="JDBC" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
 </p>
+
+<hr style="border: 2px solid #000;"/>
+
 
 
 Languages: 🟤 Java | 🐘 SQL
