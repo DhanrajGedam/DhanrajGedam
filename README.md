@@ -4,11 +4,7 @@
 
 I’m a passionate Backend Developer with a knack for creating efficient, reliable, and optimized code. My GitHub is filled with projects showcasing real-world applications, built with precision and a love for coding! 💼
 
-🚀 Tech Stack & Skills:
-
-### Tech Stack and Skills
-
-### Tech Stack and Skills
+###🚀 Skills and Tools 🛠️
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
@@ -23,6 +19,9 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij/jetbrains_intellij-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
 <hr style="border: 2px solid #000;"/>
