@@ -10,7 +10,6 @@ I’m a passionate Backend Developer with a knack for creating efficient, reliab
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL Workbench" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img src="https://blog.doubleslash.de/wp/wp-content/uploads/2023/02/logo.png" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/496b310b9cc719674a0dfad2ece95abd5cc5383d78bdf16f3a28c0dbeec01bd9/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323032322f30312f33302f31332f33332f6769746875622d363938303839345f3936305f3732302e706e67" 
   alt="GitHub" width="40" height="40"/>
