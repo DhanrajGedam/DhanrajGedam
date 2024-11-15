@@ -39,7 +39,7 @@ Frameworks: 🌱 Spring Boot |🧩 Hibernate |
 
 Tools: 🚀 Maven | ⚙️ Gradle | 🐳 Docker | 🖋️ IntelliJ IDEA | 🌀 Eclipse IDE | 🔍 VS Code | 🌱 Git and Github | 🔧 Jenkins
 
-Database: 🗄️ MySQL
+Database: 🗄️ MySQL, Oracle Database
 
 📂 Highlighted Projects:
 
